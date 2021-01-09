@@ -20,8 +20,8 @@ function setup(){
     ground = new Ground(600,height,1200,20)
     ground2 = new Ground(200, 290, 400, 200);
 
-    box1 = new Box(700,320,70,70);
-    box2 = new Box(920,320,70,70);
+    box1 = new Box(700,320,700,700);
+    box2 = new Box(920,320,700,700);
 
     pig1 = new Pig(810, 350);
 
